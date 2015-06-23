@@ -1,2 +1,3 @@
 # FrogResources
-resources. for frogs
+Art goes in ./textures
+Fonts go in ./fonts
